@@ -1,0 +1,68 @@
+NON-COMMERCIAL SOURCE LICENSE
+Version 1.0
+
+Copyright (c) 2026 jorsacademy
+All rights reserved except as expressly granted below.
+
+1. GRANT
+Subject to the terms of this License, you are granted a limited, worldwide, non-exclusive,
+non-transferable, revocable license to access, copy, modify, and distribute the Source Code
+solely for personal, educational, academic, research, evaluation, and other strictly
+non-commercial purposes.
+
+2. COMMERCIAL USE PROHIBITED
+Commercial Use is prohibited without a separate written commercial license from the
+copyright holder.
+
+"Commercial Use" includes, without limitation:
+(a) use by or for a for-profit business in its internal operations;
+(b) use in consulting, contracting, implementation, analytics, optimization, or other paid services;
+(c) use in any product, application, SaaS offering, API, hosted service, platform, or workflow
+    that is sold, licensed for a fee, monetized, or used to generate commercial revenue;
+(d) embedding, integrating, adapting, or redistributing the Source Code or a derivative work
+    in a commercial product or service;
+(e) resale, sublicensing for consideration, paid training delivery, or other revenue-generating
+    distribution of the Source Code or derivative works; and
+(f) use that materially supports commercial production, operations, decision-making, or delivery.
+
+3. NON-COMMERCIAL REDISTRIBUTION
+Redistribution for permitted non-commercial purposes must:
+(a) retain this License in full;
+(b) retain all copyright, attribution, and provenance notices;
+(c) clearly identify material modifications; and
+(d) not state or imply endorsement by the copyright holder.
+
+4. DERIVATIVE WORKS
+You may create derivative works only for permitted non-commercial purposes. Any distribution
+of such derivative works must remain subject to terms at least as restrictive as this License
+with respect to Commercial Use.
+
+5. NO TRADEMARK OR PATENT GRANT
+No trademark rights are granted. No patent license is granted except to the minimum extent,
+if any, required by applicable law to exercise the permissions expressly granted in Section 1.
+
+6. THIRD-PARTY SOFTWARE
+This License applies only to material for which the repository copyright holder has authority
+to license. Third-party dependencies, including Gurobi and gurobipy, remain subject to their
+own licenses and terms. This License does not grant any Gurobi license rights.
+
+7. TERMINATION
+Any violation of this License automatically terminates all rights granted to you. Upon
+termination, you must cease use and distribution of the Source Code and derivative works.
+
+8. NO WARRANTY
+THE SOURCE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE, AND NON-INFRINGEMENT.
+
+9. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR RELATED TO THE SOURCE CODE OR ITS USE.
+
+10. COMMERCIAL LICENSING
+Commercial rights may be available under a separate written agreement with the copyright holder.
+No commercial permission is implied by public availability of this repository.
+
+11. INTERPRETATION
+This is a source-available, non-commercial license and is not intended to qualify as an
+Open Source Initiative-approved open-source license.
